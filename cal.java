@@ -31,5 +31,5 @@ import java.util.Scanner;
       sc.close();
     }
   }
-
+// we can use switch(choice)
 
