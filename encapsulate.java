@@ -1,3 +1,4 @@
+import fabs.Student;
 
 class Student {
 
